@@ -6,7 +6,7 @@ no matter where its come, just add it to black list. Be brave to expose them. He
 
 ## Mulitple languages
 * [Chinese](Chinese.md)
-* [Japanese]()
+* [Japanese](Japanese.md)
 
 ## Contribute
 You can contriubute the project directly. If you mind your information exposed.
