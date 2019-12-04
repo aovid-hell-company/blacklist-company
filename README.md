@@ -2,7 +2,7 @@
 
 ## Motivation
 There are some companies what are fake not obey the law even dosen't pay salary.
-no matter where its come, just add it to black list. Be brave to expose them.
+no matter where its come, just add it to black list. Be brave to expose them. Here is [list](blacklist.md)
 
 ## Mulitple languages
 * [Chinese](Chinese.md)
