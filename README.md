@@ -10,4 +10,4 @@ no matter where its come, just add it to black list. Be brave to expose them.
 
 ## Contribute
 You can contriubute the project directly. If you mind your information exposed.
-send your evidence to [avoid.hell.ccompany@gmail.com](avoid.hell.ccompany@gmail.com)
+Send your objective evidence to [avoid.hell.ccompany@gmail.com](avoid.hell.ccompany@gmail.com). Thanks.
